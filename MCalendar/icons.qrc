@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/icons">
+
+    <file alias="arrow_down">icons/arrow-down.png</file>
+    <file alias="arrow_left">icons/arrow-left.png</file>
+    <file alias="arrow_right">icons/arrow-right.png</file>
+    <file alias="arrow_up">icons/arrow-up.png</file>
+   
+    <file>icons/first_quater.png</file>
+    <file>icons/last_quater.png</file>
+    <file>icons/moon_full_gimp_100x100.png</file>
+    <file>icons/moon_full.png</file>
+    <file>icons/new_moon.png</file>
+
+    <file alias="pleine_lune">icons/pleine_lune_100x100.png</file>
+    <file alias="nouvelle_lune">icons/nouvelle_lune_100x100.png</file>
+    <file alias="premier_quartier">icons/premier_quartier_100x100.png</file>
+    <file alias="dernier_quartier">icons/dernier_quartier_100x100.png</file>
+</qresource>
+</RCC>

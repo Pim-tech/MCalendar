@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../MCalendar/icons/arrow-down.png</file>
+    <file>../MCalendar/icons/arrow-left.png</file>
+    <file>../MCalendar/icons/arrow-right.png</file>
+    <file>../MCalendar/icons/arrow-up.png</file>
+    <file>../MCalendar/icons/dernier_quartier_100x100.png</file>
+    <file>../MCalendar/icons/first_quater.png</file>
+    <file>../MCalendar/icons/last_quater.png</file>
+    <file>../MCalendar/icons/moon_full_gimp_100x100.png</file>
+    <file>../MCalendar/icons/moon_full.png</file>
+    <file>../MCalendar/icons/new_moon.png</file>
+    <file>../MCalendar/icons/nouvelle_lune_100x100.png</file>
+    <file>../MCalendar/icons/pleine_lune_100x100.png</file>
+    <file>../MCalendar/icons/premier_quartier_100x100.png</file>
+</qresource>
+</RCC>

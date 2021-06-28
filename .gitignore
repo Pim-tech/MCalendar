@@ -1,0 +1,5 @@
+*.o
+.*.swp
+MCalendar/MCalendar
+viewerEditor/viewerEditor
+viewerEditor/viewerConsole/viewerConsole
